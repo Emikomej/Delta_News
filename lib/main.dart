@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
               padding: const EdgeInsets.all(10),
               child: const Text(
                 "You have no new notifications",
-                style: TextStyle(color: Colors.blue, fontSize: 20),
+                style: TextStyle(color: Colors.red, fontSize: 20),
               ),
             ),
           ],
